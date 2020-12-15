@@ -11,4 +11,5 @@ It contains all the links to great developer tools , articles, github code repos
 |System Design Primer|Learning how to design scalable systems will help you become a better engineer.|System Design|[Link](https://github.com/donnemartin/system-design-primer)|
 |Software Architecture Monday|Software Architecture Monday with Mark Richards is a free bi-weekly software architecture lesson containing a short video about some aspect of software architecture|Architecture|[Link](https://www.developertoarchitect.com/lessons/)|
 |Architect Bookshelf|Gregor Hohpe's excellent book list for any software professional|Architecture|[Link](https://architectelevator.com/architecture/architect-bookshelf/)
-|Enterprise Integration Patterns|a Pattern language consisting of 65 integration patterns|Architecture|[Link](https://www.enterpriseintegrationpatterns.com/)
+|Enterprise Integration Patterns|a Pattern language consisting of 65 integration patterns|Architecture|[Link](https://www.enterpriseintegrationpatterns.com/)|
+|Pragmatic Programmer | Pragmatic Programmer Bookshelf|Programming , Architecture|[Link](https://pragprog.com/)|
