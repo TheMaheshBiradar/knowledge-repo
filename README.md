@@ -18,3 +18,4 @@ It contains all the links to great developer tools , articles, github code repos
 |MicroFrontend |Mosaic is a set of services, libraries together with a specification that defines how its components interact with each other, to support a microservice style architecture for large scale websites|Architecture, Microfrontend|[Link](https://www.mosaic9.org/)|
 |Dataset| Datasets for practicing | Dev tools | [Link](https://learnsql.com/blog/free-online-datasets-to-practice-sql/)|
 |Javascript code snippets | Great repo containing JS code snippets | JS , Programming | [Link](https://github.com/30-seconds/30-seconds-of-code)|
+|Awesome Beginner Projects| Beginner Projects for everyone | Programming | [Link](https://github.com/MunGell/awesome-for-beginners)|
