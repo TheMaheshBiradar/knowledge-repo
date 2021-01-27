@@ -19,3 +19,4 @@ It contains all the links to great developer tools , articles, github code repos
 |Dataset| Datasets for practicing | Dev tools | [Link](https://learnsql.com/blog/free-online-datasets-to-practice-sql/)|
 |Javascript code snippets | Great repo containing JS code snippets | JS , Programming | [Link](https://github.com/30-seconds/30-seconds-of-code)|
 |Awesome Beginner Projects| Beginner Projects for everyone | Programming | [Link](https://github.com/MunGell/awesome-for-beginners)|
+|Software Engineering Daily| Daily podcast on software engineering | Engineering|[Link](https://softwareengineeringdaily.com/)|
