@@ -21,3 +21,4 @@ It contains all the links to great developer tools , articles, github code repos
 |Awesome Beginner Projects| Beginner Projects for everyone | Programming | [Link](https://github.com/MunGell/awesome-for-beginners)|
 |Software Engineering Daily| Daily podcast on software engineering | Engineering|[Link](https://softwareengineeringdaily.com/)|
 |APIs available for development |APIs | APIs |[Link](https://www.programmableweb.com/)
+|Distributed System Design |Free E-book | Distributed System Design |[Link]([https://www.programmableweb.com](https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistributedSystems.pdf)https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistributedSystems.pdf/)
